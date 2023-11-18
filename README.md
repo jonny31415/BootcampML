@@ -1,4 +1,4 @@
-# Nome do grupo: Perna
+# Nome do grupo: Berna
 ## Integrantes:
 João Lucas Foltran Consonni
 
